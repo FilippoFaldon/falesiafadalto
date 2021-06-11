@@ -21,28 +21,23 @@ body#Filippo {
   display: block;}
 
 
-
-
-
-
-
 /* PAGINA DUE */
 
 ul li{ display: inline;}
 
 a{text-decoration: none;}
 
-ul{ margin-top: 32px;}
+ul{ margin-top: 2.2222%;}
 
-li#menu { padding-left: 3em;
+li#menu { padding-left: 3.3333%;
           font-family: "Alata",sans-serif;}
 
 li#home {margin-right:;}
 
-li#gadget {padding-left: 51em;
+li#gadget {padding-left: 56.7%;
           font-family: "Alata",sans-serif;}
 
-li#language {margin-left: 50px;
+li#language {margin-left: 3.47%;
             font-family: "Alata",sans-serif;
             color: white;}
 
@@ -50,36 +45,30 @@ li#language {margin-left: 50px;
       color: white;}
 
 
-.AA{margin-top: 90px}
+.AA{margin-top: 6.25%;}
 
 .A{float: left;
   width: 30%;
-  margin: 15px;
+  margin: 1.1111%;
   padding-top: 15%;
   padding-bottom: 20%;
-  border: 5px solid blackk;
-  border-radius: 20px;
-  margin-left: 25px;
+  margin-left: 1.736%;
   font-family: "Alata",sans-serif;}
 
 .B{float: left;
   width: 30%;
-  margin: 15px;
+  margin: 1.1111%;
   padding-top: 15%;
   padding-bottom: 20%;
-  border: 5px solid blackk;
-  border-radius: 20px;
-  margin-left: 20px;
+  margin-left: 1.39%;
   font-family: "Alata",sans-serif;}
 
 .C{float: left;
   width: 30%;
   padding-top: 15%;
   padding-bottom: 20%;
-  margin: 15px;
-  border: 5px solid blackk;
-  border-radius: 20px;
-  margin-left: 20px;
+  margin: 1.1111%;
+  margin-left: 1.39%;
   font-family: "Alata",sans-serif;}
 
 h2{ text-align: center;}
@@ -103,14 +92,14 @@ h2{ text-align: center;}
 /*PAGINA SETTORI SPECIFICA*/
 
 
-li#VIE { margin-left: 43em;
+li#VIE { margin-left: 47.8%;
           font-family: "Alata",sans-serif;}
 
-li#DRY { margin-left: 50px;
+li#DRY { margin-left: 3.47%;
           font-family: "Alata",sans-serif;}
 
 
-li#gadget2 {padding-left: 50px;
+li#gadget2 {padding-left: 3.47%;
             font-family: "Alata",sans-serif;}
 
     .A7 {color: #eff02c;
@@ -123,50 +112,37 @@ li#gadget2 {padding-left: 50px;
 
     .D{float: left;
       width: 30%;
-      margin: 15px;
+      margin: 1.1111%;
       padding-top: 15%;
       padding-bottom: 20%;
-      border: 5px solid blackk;
-      border-radius: 20px;
-      margin-left: 25px;
+      margin-left: 1.736%;
       font-family: "Alata",sans-serif;}
 
     .E{float: left;
       width: 30%;
-      margin: 15px;
+      margin: 1.1111%;
       padding-top: 15%;
       padding-bottom: 20%;
-      border: 5px solid blackk;
-      border-radius: 20px;
-      margin-left: 20px;
+      margin-left: 1.736%;
       font-family: "Alata",sans-serif;}
 
     .F{float: left;
       width: 30%;
       padding-top: 15%;
       padding-bottom: 20%;
-      margin: 15px;
-      border: 5px solid blackk;
-      border-radius: 20px;
-      margin-left: 20px;
+      margin: 1.1111%;
+      margin-left: 1.39%;
       font-family: "Alata",sans-serif;}
 
  .A9 {background-color: black;}
-
-
-.D { background-image: url("../MOSCHETTONIIII_Tavola disegno 1.png");}
-
-.E { background-image: url("../MOSCHETTONIIII_Tavola disegno 1.png");}
-
-.F { background-image: url("../MOSCHETTONIIII_Tavola disegno 1.png");}
 
 
   .Dsett {float: left;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 40PX;
-    margin-left: 40px;
+    padding-right: 2.8%;
+    margin-left: 2.8%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/5-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -175,8 +151,8 @@ li#gadget2 {padding-left: 50px;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 40PX;
-    margin-left: 15px;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/9-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -185,8 +161,8 @@ li#gadget2 {padding-left: 50px;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 40PX;
-    margin-left: 15px;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/10-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -195,8 +171,8 @@ li#gadget2 {padding-left: 50px;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 40PX;
-    margin-left: 15px;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/12-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -210,16 +186,16 @@ li#gadget2 {padding-left: 50px;
         margin: 0px;}
 
 ul#gdt {background-color: black;
-        padding-bottom: 50px;
-        padding-top: 32px;
-        padding-left: 48px;
-        padding-right: 8px;
+        padding-bottom: 3.47%;
+        padding-top: 2.22%;
+        padding-left: 4.38%;
+        padding-right: 0.5555%;
         margin-top: 0px;}
 
-li#VIEgdt {margin-left: 50px;
+li#VIEgdt {margin-left: 3.47%;
         font-family: "Alata",sans-serif;}
 
-li#settori {margin-left: 680px;
+li#settori {margin-left: 46.11%;
             font-family: "Alata",sans-serif;}
 
         .Agdt{float: left;
@@ -227,9 +203,7 @@ li#settori {margin-left: 680px;
           margin: 0px;
           padding-top: 10%;
           padding-bottom: 0%;
-          border: 5px solid blackk;
-          border-radius: 20px;
-          margin-left: 50px;
+          margin-left: 3.47%;
           font-family: "Alata",sans-serif;}
 
         .Bgdt{float: left;
@@ -237,9 +211,7 @@ li#settori {margin-left: 680px;
           margin: 0px;
           padding-top: 10%;
           padding-bottom: 0%;
-          border: 5px solid blackk;
-          border-radius: 20px;
-          margin-left: 20px;
+          margin-left: 1.39%;
           font-family: "Alata",sans-serif;}
 
         .Cgdt{float: left;
@@ -247,16 +219,14 @@ li#settori {margin-left: 680px;
           padding-top: 10%;
           padding-bottom: 0%;
           margin: 0px;
-          border: 5px solid blackk;
-          border-radius: 20px;
-          margin-left: 20px;
+          margin-left: 1.39%;
           font-family: "Alata",sans-serif;}
 
-        .bibob3 {padding-left: 360px;
+        .bibob3 {padding-left: 83%;
                 display: inline;}
-        .bibob1 {padding-left: 320px;
+        .bibob1 {padding-left: 75%;
                 display: inline;}
-        .bibob2 {padding-left: 375px;
+        .bibob2 {padding-left: 88%;
                 display: inline;}
 
         .A7gdt {color: #eff02c;}
@@ -272,14 +242,14 @@ li#settori {margin-left: 680px;
         margin: 0px;}
 
   ul#ULvie {  background-color: black;
-              padding-bottom: 50px;
-              padding-top: 32px;
-              padding-left: 48px;
-              padding-right: 8px;
+              padding-bottom: 3.47%;
+              padding-top: 2.22%;
+              padding-left: 3.33%;
+              padding-right: 0.5555%;
               margin-top: 0px;
               margin-bottom: 0px;}
 
-li#SETTORIv {margin-left: 650px;}
+li#SETTORIv {margin-left: 45.14%;}
 
 .A7v {color: #eff02c;
       font-family: "Alata",sans-serif;}
@@ -289,7 +259,7 @@ li#SETTORIv {margin-left: 650px;}
 
 /* DRYTOOLING */
 
-li#settoriDT {margin-left: 650px;}
+li#settoriDT {margin-left: 45.14%;}
 
 h2#dry2 {text-align: left;}
 
@@ -298,22 +268,22 @@ h2#dry2 {text-align: left;}
 
 .DRY1 {float: left;
         width: 25%;
-        padding: 50px;
+        padding: 3.47%;
         margin-left: 0px;
         font-family: "Alata";}
 
 .DRY2 {float: left;
         width: 25%;
-        padding: 50px;
-        margin-left: 10px;
+        padding: 3.47%;
+        margin-left: 0.69%;
         font-family: "Alata";}
 
 .DRY3 {float: right;
         width: 25%;
-        padding: 50px;
-        margin-right: 35px;
+        padding: 3.47%;
+        margin-right: 2.8%;
         font-family: "Alata";}
 
 .H2dry {text-align: left;}
 
-.DRY4 {margin-top: 35px;}
+.DRY4 {margin-top: 2.43%;}
