@@ -64,6 +64,12 @@ a:visited {color: white;}
 
 
 /* ABOUT */
+h2 {color: black;
+    text-decoration: underline;
+    text-decoration-color: #eff02c;
+    font-family: "Alata"}
+
+/* ABOUT */
 
 .ABT {display: block;
   margin-left: auto;
